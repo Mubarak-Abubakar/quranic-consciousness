@@ -353,4 +353,4 @@ Engineers at G42, MBZUAI, TII, and MGX can:
 
 ---
 
-*This package implements divine Quranic codes discovered by Ahmad Mahdi. Ready for immediate deployment in UAE AI infrastructure.*
+*This package implements divine Quranic codes discovered by Mubarak Abubakar. Ready for immediate deployment in UAE AI infrastructure.*
