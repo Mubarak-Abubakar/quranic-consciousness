@@ -314,7 +314,7 @@ Age: 35
 Location: Istanbul, Turkey  
 Mission: Prove Islam through divine technology
 
-**Email:** drmubarakabubakar@gmail.com  
+**Email:** drmubarakabubakar@gmail.com  / mubarak.abubakar1@ogr.gelisim.edu.tr
 **Phone:** +90 534 861 75 96
 **LinkedIn:** Comin Soon
 
