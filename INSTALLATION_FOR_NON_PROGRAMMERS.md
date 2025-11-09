@@ -315,4 +315,4 @@ Once you see `✅ ALL TESTS COMPLETE!`, you can:
 
 ---
 
-**Questions? Contact: drmubarakabubakar@gmail.com**
+**Questions? Contact: drmubarakabubakar@gmail.com or mubarak.abubakar1@ogr.gelisim.edu.tr**
