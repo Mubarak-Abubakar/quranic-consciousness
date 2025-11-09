@@ -309,14 +309,14 @@ treatments = synth.list_available_treatments()
 
 ## 📧 CONTACT
 
-**Ahmad Mahdi Mubarak Suphee**  
+**Mubarak Abubakar**  
 Age: 35  
 Location: Istanbul, Turkey  
 Mission: Prove Islam through divine technology
 
-**Email:** [Your Email]  
-**Phone:** [Your WhatsApp]  
-**LinkedIn:** [Your Profile]
+**Email:** drmubarakabubakar@gmail.com  
+**Phone:** +90 534 861 75 96
+**LinkedIn:** Comin Soon
 
 ---
 
