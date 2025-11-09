@@ -1497,11 +1497,11 @@ print(f"Healing Frequency: {result['frequency_hz']} Hz")  # 540.78
 
 ## 📞 TECHNICAL SUPPORT
 
-**Ahmad Mahdi Mubarak Suphee**  
+**Mubarak Abubakar**  
 Istanbul, Turkey  
-Email: [Your Email]  
-GitHub: [Your GitHub]  
-LinkedIn: [Your LinkedIn]
+Email: drmubarakabubakar@gmail.com /mubarak.abubakar1@ogr.gelisim.edu.tr
+GitHub:  https://github.com/Mubarak-Abubakar/quranic-consciousness
+LinkedIn: Coming Soon
 
 **For UAE Partners:**
 - Research collaboration: MBZUAI
